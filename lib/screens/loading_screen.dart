@@ -63,9 +63,9 @@ class _LoadingScreenState extends State<LoadingScreen> {
 
   void getDataLocation() async {
     // Only Android
-    Map<Permission, PermissionStatus> status = await [
-      Permission.location,
-    ].request();
+    // Map<Permission, PermissionStatus> status = await [
+    //   Permission.location,
+    // ].request();
 
     var weatherData = await WeatherModel().getLocationWeather();
 
