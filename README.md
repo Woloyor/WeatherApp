@@ -1,6 +1,6 @@
-# clima_app
+# ClimaApp
 
-A new Flutter project.
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
 ## Getting Started
 
